@@ -1,0 +1,6 @@
+C:\source\Console-Apps\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe.config
+C:\source\Console-Apps\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe
+C:\source\Console-Apps\ExcelReader\ExcelReader\bin\Debug\ExcelReader.pdb
+C:\source\Console-Apps\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csprojResolveAssemblyReference.cache
+C:\source\Console-Apps\ExcelReader\ExcelReader\obj\Debug\ExcelReader.exe
+C:\source\Console-Apps\ExcelReader\ExcelReader\obj\Debug\ExcelReader.pdb
